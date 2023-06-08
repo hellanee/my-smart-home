@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">My smart home</string>
+
+    <string-array name="rooms_list">
+        <item>Кухня</item>
+        <item>Спальня</item>
+        <item>Гостиная</item>
+        <item>Коридор</item>
+    </string-array>
+    <string name="rooms_devices_string">Устройств:</string>
+    <string-array name="kitchen_devices">
+        <item>Свет</item>
+        <item>Чайник</item>
+        <item>Розетка 1</item>
+        <item>Розетка 2</item>
+        <item>Розетка 3</item>
+    </string-array>
+    <integer-array name="kitchen_switches">
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+    </integer-array>
+    <string-array name="bedroom_devices">
+        <item>Свет</item>
+        <item>Кондиционер</item>
+        <item>Розетка 1</item>
+    </string-array>
+    <integer-array name="bedroom_switches">
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+    </integer-array>
+    <string-array name="living_room_devices">
+        <item>Свет</item>
+        <item>Телевизор</item>
+        <item>Розетка 1</item>
+        <item>Розетка 2</item>
+    </string-array>
+    <integer-array name="living_room_switches">
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <string-array name="hall_devices">
+        <item>Свет</item>
+        <item>Розетка 1</item>
+    </string-array>
+    <integer-array name="hall_switches">
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+</resources>
